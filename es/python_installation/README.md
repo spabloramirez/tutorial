@@ -1,7 +1,7 @@
 # Vamos a empezar con Python
 
 ¡Por fin estamos aquí!
-
+asdf
 Pero primero, déjenos decirte qué es Python. Python es un lenguaje de programación muy popular que puede utilizarse para la creación de sitios web, juegos, software académico, gráficos y mucho, mucho más.
 
 Python se originó en la década de 1980 y su objetivo principal es ser legible por los seres humanos (¡no sólo para las máquinas!), por eso parece mucho más simple que otros lenguajes de programación. Esto hace que sea más fácil de aprender, pero no te preocupes, ¡Python es también muy poderoso!
