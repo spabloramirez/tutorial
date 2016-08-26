@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Installation](installation/README.md)
+* [Installation](how_the_internet_works/README.md)
 * [How the Internet works](how_the_internet_works/README.md)
 * [Introduction to command line](intro_to_command_line/README.md)
 * [Python installation](python_installation/README.md)
@@ -24,3 +24,4 @@
 * [Extend your application](extend_your_application/README.md)
 * [Django Forms](django_forms/README.md)
 * [What's next?](whats_next/README.md)
+
